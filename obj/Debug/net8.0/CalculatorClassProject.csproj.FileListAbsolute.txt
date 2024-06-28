@@ -1,0 +1,14 @@
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.AssemblyInfoInputs.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.AssemblyInfo.cs
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.csproj.CoreCompileInputs.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\bin\Debug\net8.0\CalculatorClassProject.exe
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\bin\Debug\net8.0\CalculatorClassProject.deps.json
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\bin\Debug\net8.0\CalculatorClassProject.runtimeconfig.json
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\bin\Debug\net8.0\CalculatorClassProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\bin\Debug\net8.0\CalculatorClassProject.pdb
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\refint\CalculatorClassProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.pdb
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.genruntimeconfig.cache
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\ref\CalculatorClassProject.dll
