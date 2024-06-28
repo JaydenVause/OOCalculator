@@ -12,3 +12,4 @@ C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassPro
 C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.pdb
 C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.genruntimeconfig.cache
 C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\ref\CalculatorClassProject.dll
+C:\Users\jamja\OneDrive\Desktop\Code\C# Code\C# In a nutshell\CalculatorClassProject\obj\Debug\net8.0\CalculatorClassProject.sourcelink.json

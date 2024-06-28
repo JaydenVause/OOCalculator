@@ -5,32 +5,32 @@ public class Calculator
 	
     /*
      * adds two numbers together
-     * @param x - double - value to add to
-     * @param y - double - value to add
-     * returns double = x + y
+     * @param x - decimal - value to add to
+     * @param y - decimal - value to add
+     * returns decimal = x + y
      */
-    public double add(double x, double y)
+    public decimal add(decimal x, decimal y)
     {
         return x + y;
     }
 
     /*
      * subtsracts value y from x
-     * @param x - double - value to subtract from
-     * @param y - double - value to subtract
-     * returns double = x - y
+     * @param x - decimal - value to subtract from
+     * @param y - decimal - value to subtract
+     * returns decimal = x - y
      */
-    public double subtract(double x, double y){
+    public decimal subtract(decimal x, decimal y){
     	return x - y;
     }
 
     /*
      * divides value x by value y
-     * @param x - double - numerator
-     * @param y - double - denominator
-     * returns double = x / y
+     * @param x - decimal - numerator
+     * @param y - decimal - denominator
+     * returns decimal = x / y
      */
-    public double divide(double x, double y){
+    public decimal divide(decimal x, decimal y){
     	return x / y;
     }
 
@@ -40,7 +40,7 @@ public class Calculator
      * @param y - multipler - value to multiply by
      * returns double = x*y
      */
-    public double multiply(double x, double y){
+    public decimal multiply(decimal x, decimal y){
     	return x * y;
     }
 }
@@ -60,7 +60,7 @@ public class Program
 
 
     // Method for printing calculator output
-    public static void printCalculatorOutput(double output)
+    public static void printCalculatorOutput(decimal output)
     {
         Console.WriteLine(output); // output to console
     }

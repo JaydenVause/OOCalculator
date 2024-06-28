@@ -62,7 +62,7 @@ public class Program
     // Method for printing calculator output
     public static void printCalculatorOutput(double output)
     {
-        Console.WriteLine(output);// convert double to string for output
+        Console.WriteLine(output); // output to console
     }
 }
 
